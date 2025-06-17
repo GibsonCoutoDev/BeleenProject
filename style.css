@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'HiguenSerifDisplay';
+  src: url('./fonts/HiguenSerifDisplay-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-higuen {
+  font-family: 'HiguenSerifDisplay', serif;
+}
+
+body {
+    background-color: #FEF2F2;
+}
